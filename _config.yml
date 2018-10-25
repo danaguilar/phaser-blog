@@ -23,7 +23,7 @@ github_username:  danaguilar
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-time-machine
 plugins:
   - jekyll-feed
 
